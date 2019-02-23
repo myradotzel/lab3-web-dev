@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-image: url(galaxy.jpg);
+    background-size: 200%;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+p {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New';
+}
+
+h1 {
+    font-family: 'Verdana';
+    font-size: 40pt;
+}
+
+h2 {
+    font-family: 'Verdana';
+    font-size: 22pt;
+}
+
+a.first:hover {
+    color: red;
+}
+
+a.second:hover {
+    color: yellow;
+}
+
+a.third:hover {
+    color: green;
+}
+
+a.fourth:hover {
+    color: blue;
+}
